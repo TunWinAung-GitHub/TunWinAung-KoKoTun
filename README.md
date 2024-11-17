@@ -1,4 +1,4 @@
-# Tunwg
+# TunWinAung
 
 End to end encrypted secure tunnel to local servers
 
@@ -20,7 +20,7 @@ docker run -it --rm --network=host -v tunwg_keys:/data ghcr.io/ntnj/tunwg tunwg 
 
 ## Install
 
-You can download a pre-compiled binary from [Github releases](https://github.com/ntnj/tunwg/releases) for [Windows](https://github.com/ntnj/tunwg/releases/latest/download/tunwg.exe), [Linux](https://github.com/ntnj/tunwg/releases/latest/download/tunwg) and Mac ([Arm](https://github.com/ntnj/tunwg/releases/latest/download/tunwg-darwin-arm64)/[Intel](https://github.com/ntnj/tunwg/releases/latest/download/tunwg-darwin))
+You can download a pre-compiled binary from [Github releases](https://github.com/ntnj/tunwinaung/releases) for [Windows](https://github.com/ntnj/tunwinaung/releases/latest/download/tunwinaung.exe), [Linux](https://github.com/ntnj/tunwinaung/releases/latest/download/tunwg) and Mac ([Arm](https://github.com/ntnj/tunwinaung/releases/latest/download/tunwg-darwin-arm64)/[Intel](https://github.com/ntnj/tunwinaung/releases/latest/download/tunwg-darwin))
 
 To install from source:
 ```bash
